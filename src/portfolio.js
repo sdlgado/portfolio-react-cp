@@ -9,7 +9,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "David Rakosi",
+  username: "Sergio Delgado",
   title: "Hi all, I'm David",
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of designing and building Web and Mobile applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
